@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi there! I'm Negar Moradi
 
-<!--
-**NegarMoradi-dev/NegarMoradi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in Artificial Intelligence, Machine Learning, and Software Development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering undergraduate
+- 🧠 Interested in Artificial Intelligence and Machine Learning
+- 🔬 Undergraduate researcher in AI/ML
+- 💻 Currently learning Dart, Flutter, Python, SQL, and Git/GitHub
+- 🌱 Building projects to strengthen my programming and software development skills
+
+## Research Interests
+
+- Machine Learning
+- Artificial Intelligence
+- Classification
+- Ensemble Learning
+- Explainable AI
+- Data Analysis
+
+## Currently Learning
+
+- Dart & Flutter
+- Python
+- SQL & Databases
+- Git & GitHub
+- Software Development
+
+## Projects
+
+### Guess the Number
+A beginner-friendly number guessing game developed with Dart.
+
+### Rock Paper Scissors
+A simple practice project developed while learning Dart programming.
+
+## Research
+
+Research work in Artificial Intelligence / Machine Learning.
+
+## Goals
+
+I'm continuously working on improving my programming, research, and software development skills and building a strong academic and technical portfolio.
+
+## Contact
+
+Feel free to explore my repositories and follow my learning journey.
